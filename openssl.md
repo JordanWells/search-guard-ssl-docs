@@ -13,7 +13,7 @@ To enable native support for Open SSL follow these steps:
 **(Open SSL and Apache Portable Runtime needs to be installed)**
 
 * If you are on Alpine Linux pls. refer to [this post](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/search-guard/dLr4SYeDMOE/915APogFBQAJ)
-* Install latest OpenSSL version on every node (make sure its at least version 1.0.1k.)
+* Install latest 1.0.2 OpenSSL version on every node (1.0.1 does also work but is outdated). OpenSSL 1.1.x is not supported currently.
  *  [https://www.openssl.org/community/binaries.html](https://www.openssl.org/community/binaries.html)
 * Install APR - Apache Portable Runtime (libapr1) on every node
  * [https://apr.apache.org](https://apr.apache.org)
@@ -40,13 +40,13 @@ To enable native support for Open SSL follow these steps:
 
 ## Statically linked
 
-**(Only works for linux, does not need Open SSL/Apache Portable Runtime to be installed)**
+**(Only works for non-fedora based linux, does not need Open SSL/Apache Portable Runtime to be installed)**
 
 * **Search Guard 2:**
- * Download [netty-tcnative-openssl-static-1.1.33.Fork16-fg01-linux-x86_64.jar
-](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork16-fg01-linux-x86_64.jar?raw=true) 
+ * Download [netty-tcnative-openssl-static-1.1.33.Fork17-linux-x86_64.jar compiled with OpenSSL 1.0.2j
+](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork17-linux-x86_64.jar?raw=true) 
 * **Search Guard 5:**
- * Download [netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar
+ * Download [netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar compiled with OpenSSL 1.0.2j
 ](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar?raw=true)
 * Follow step 6-8 above
 
