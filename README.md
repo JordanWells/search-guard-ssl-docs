@@ -8,7 +8,10 @@ This is the official documentation for Search Guard 2 SSL and Search Guard 5 SSL
 
 floragunn GmbH is not affiliated with Elasticsearch BV. Elasticsearch, Kibana, Logstash, and Beats are trademarks of Elasticsearch BV, registered in the U.S. and in other countries.
 
-Copyright 2016 floragunn UG (haftungsbeschränkt)
+Copyright 2016-2017 floragunn GmbH
+
+## HTML version
+http://floragunncom.github.io/search-guard-ssl-docs/
 
 ## Table of contents
 
