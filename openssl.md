@@ -48,13 +48,13 @@ To enable native support for Open SSL follow these steps:
 
 * **Search Guard 2:**
  * Download [netty-tcnative-openssl-static-1.1.33.Fork17-linux-x86_64.jar compiled with OpenSSL 1.0.2j
-](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork17-linux-x86_64.jar?raw=true) 
+](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/102k/netty-tcnative-openssl-static-1.1.33.Fork17-linux-x86_64.jar?raw=true) 
 * **Search Guard 5.0/5.1:**
  * Download [netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar compiled with OpenSSL 1.0.2j
-](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar?raw=true)
+](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/102k/netty-tcnative-openssl-static-1.1.33.Fork23-linux-x86_64.jar?raw=true)
 * **Search Guard 5.2:**
  * Download [netty-tcnative-openssl-static-1.1.33.Fork25-linux-x86_64.jar compiled with OpenSSL 1.0.2k
-](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/netty-tcnative-openssl-static-1.1.33.Fork25-linux-x86_64.jar?raw=true)
+](https://github.com/floragunncom/sg-assets/blob/master/netty-tcnative-openssl-static-linux-x86_64/102k/netty-tcnative-openssl-static-1.1.33.Fork25-linux-x86_64.jar?raw=true)
 * Follow step 6-8 above
 
 ## Troubleshooting 
